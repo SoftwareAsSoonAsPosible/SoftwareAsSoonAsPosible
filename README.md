@@ -1,7 +1,7 @@
  ### Bienvenidos a S.A.S.A.P 🌍
-**Miembros:**
+**Miembros:**<br>
   *Santiago Coitiño (Product Owner)<br>
-  Richard Abendanio
-  Lucas Abreu (1st Developer)
-  Fabrizio Amaro (2nd Developer and Designer)
-  Bruno Reyes (Tester)*
+  Richard Abendanio (Project Manager)<br><br>
+  Lucas Abreu (1st Developer)<br>
+  Fabrizio Amaro (2nd Developer and Designer)<br>
+  Bruno Reyes (Tester)*<br>
